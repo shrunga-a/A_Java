@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>POST METHOD CALL </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <form name="form1" action="colorget" method="POST">
+            <center><b>color</b>
+                <select name="combobox1" size="1">
+                    <option value="red"> red</option>
+                    <option value="purple"> purple </option>
+                    <option value="green"> green</option>
+                    <option value="black"> black</option>
+                    <option value="mangowhip"> mango whip</option>
+             
+                </select>
+            
+            
+            </center>
+                </form>
+            
+        
+        </div>
+    </body>
+</html>
